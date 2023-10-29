@@ -59,7 +59,7 @@ for name in (
     "hdf5plots",
     "pgfplotsx",
     "plotly",
-    "animations",
+    # "animations",
     "output",
     "preferences",
     "backends",
